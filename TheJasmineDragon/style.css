@@ -1,0 +1,33 @@
+#header {
+    color: limegreen;
+    text-align: center;
+}
+
+#nav {
+    text-align: center;
+    background-color: tan;
+}
+
+#mission {
+    text-align: center;
+}
+
+#regions {
+    text-align: center;
+}
+
+.tea {
+    text-align: center;
+}
+
+.delivery {
+    text-align: center;
+}
+
+h2 {
+    color: lime;
+}
+
+p {
+    color: white;
+}
